@@ -3,13 +3,9 @@
 ### Comparative sequence, physicochemical, and structural analysis of HbA, HbS, and HbC
 
 
-
-
-\
-
 > A reproducible computational analysis of the clinically important **HBB Glu6Val (HbS)** and **HBB Glu6Lys (HbC)** substitutions using controlled sequence mutagenesis, protein translation, physicochemical profiling, and wild-type structural-context analysis.
 
----
+
 
 ## Overview
 
@@ -29,7 +25,7 @@ The central question is:
 
 > **How can substitutions at the same mature β-globin residue generate different physicochemical perturbations, and what does the native structural environment around Glu6 reveal about those differences?**
 
----
+
 
 ## Biological Context
 
@@ -389,12 +385,9 @@ Recommended repository structure:
 hbb-insilico-mutagenesis-profiling/
 │
 ├── README.md
-├── requirements.txt
 ├── hbb_variant_analysis.ipynb
-│
-└── data/
-    ├── human_hbb_cds.fasta
-    └── 1A3N.pdb
+└── human_hbb_cds.fasta
+└── 1A3N.pdb
 ```
 
 ---
