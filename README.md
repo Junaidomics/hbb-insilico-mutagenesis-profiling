@@ -2,14 +2,8 @@
 
 ### Comparative sequence, physicochemical, and structural analysis of HbA, HbS, and HbC
 
-
-
-
-\
-
 > A reproducible computational analysis of the clinically important **HBB Glu6Val (HbS)** and **HBB Glu6Lys (HbC)** substitutions using controlled sequence mutagenesis, protein translation, physicochemical profiling, and wild-type structural-context analysis.
 
----
 
 ## Overview
 
